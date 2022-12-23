@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16570" started-at="2022-10-15T03:46:34Z" finished-at="2022-10-15T03:46:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16570" started-at="2022-10-15T03:46:34Z" finished-at="2022-10-15T03:46:50Z">
+      <class name="com.crmapp.loginTest.LoginTest">
+        <test-method status="PASS" signature="testLogin(java.lang.Object, java.lang.Object)[pri:0, instance:com.crmapp.loginTest.LoginTest@1a04f701]" name="testLogin" duration-ms="4162" started-at="2022-10-15T03:46:35Z" data-provider="getData" finished-at="2022-10-15T03:46:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.Object, java.lang.Object)[pri:0, instance:com.crmapp.loginTest.LoginTest@1a04f701]" name="testLogin" duration-ms="4189" started-at="2022-10-15T03:46:39Z" data-provider="getData" finished-at="2022-10-15T03:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.Object, java.lang.Object)[pri:0, instance:com.crmapp.loginTest.LoginTest@1a04f701]" name="testLogin" duration-ms="3643" started-at="2022-10-15T03:46:43Z" data-provider="getData" finished-at="2022-10-15T03:46:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.Object, java.lang.Object)[pri:0, instance:com.crmapp.loginTest.LoginTest@1a04f701]" name="testLogin" duration-ms="3728" started-at="2022-10-15T03:46:47Z" data-provider="getData" finished-at="2022-10-15T03:46:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.crmapp.loginTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
